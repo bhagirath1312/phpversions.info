@@ -62,7 +62,7 @@ The remaining stuff is `default`, which points to one of the `versions` below. H
 - 74
 - 80
 
-Probably don't bother listing PHP 5.x versions because we'll probably remove them soon, _as should you as any sort of responsible hosting company!_ :) 
+Probably don't bother listing PHP 5.x versions because we'll probably remove them soon, _as should you as any sort of responsible hosting company!_. :) 
 
 Moving forward, we will try to remove anything under 5.6. This is supposed to be a list of current versions :)
 
@@ -70,7 +70,7 @@ The version information should contain the patch number, which in PHP 7.0.4 woul
 
 If you provide us with a `phpinfo` URL [like this](http://php56.hosteurope-infos.de/phpinfo.php) we'll be able to automatically update your patch versions, and you'll only ever need to come back to add a new major/minor version (PHP 7.2) or change your default. That doesn't happen often, so shouldn't be too much of a hardship.
 
-If you leave phpinfo blank, we might mark you as having an insecure version of PHP on your website, which might not look great. If you want to password protect your phpinfo URLs or provide us with a secret one then get in touch, and we can sort that out. 
+If you leave phpinfo blank, we might mark you as having an insecure version of PHP on your website , which might not look great. If you want to password protect your phpinfo URLs or provide us with a secret one then get in touch, and we can sort that out. 
 
 ### Operating Systems
 
